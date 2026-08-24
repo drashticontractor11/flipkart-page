@@ -24,19 +24,19 @@ body {
 header{
     position: fixed;
     top: 0;
-    left: 0;
-    right: 0;
+    left: 5%;
+    right: 5%;
     background-color: #fdfdfd;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     z-index: 1000;
-    width: 100%;
+    width: 90%;
 }
 
 header,main {
-    width: 100vw;
+    width: 90%;
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -59,7 +59,7 @@ footer{
 
 }
 #header-navbar {
-    width: 90%;
+    width: 100%;
     background-color: rgb(255, 255, 255);
     display: flex;
     
