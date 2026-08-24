@@ -444,3 +444,15 @@ img {
     font-size: larger;
 }
 
+#row2 {
+    width: auto;
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+    margin: 5px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    gap: 5px;
+}
