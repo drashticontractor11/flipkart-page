@@ -424,3 +424,23 @@ img {
     background-color: rgb(116, 239, 248);
     border-radius: 20px;
 }
+#row1 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin: 0px 10px;
+}
+#row1-text {
+    width: 80%;
+    height: 80%;
+    font-size: large;
+}
+
+#row1-btn {
+    width: 50px;
+    height: 40px;
+    font-size: larger;
+}
+
